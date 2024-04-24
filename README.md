@@ -91,6 +91,6 @@
 
 
 
-<a><img src="https://github-readme-streak-stats.herokuapp.com?user=mensur056&theme=dark&hide_border=true&mode=weekly"/></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com?user=MansurSarkhanov&theme=dark&hide_border=true&mode=weekly"/></a>
   
 :writing_hand: Blog Posts :
