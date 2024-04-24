@@ -24,7 +24,7 @@
   
   - 🌱 I’m currently learning **Python**
   
-  - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/nicat827?tab=repositories)
+  - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/MansurSarkhanov?tab=repositories)
   
   - 📫 How to reach me **mansur.sarxanov@gmail.com**
   
@@ -171,9 +171,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nicat827&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicat827&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicat827&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MansurSarkhanov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MansurSarkhanov&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MansurSarkhanov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
