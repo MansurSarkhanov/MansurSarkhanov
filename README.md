@@ -9,7 +9,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nicat827&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MansurSarkhanov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <br>
  
@@ -22,13 +22,13 @@
 
   - 🔭 I’m currently working on **API Projects**
   
-  - 🌱 I’m currently learning **Java**
+  - 🌱 I’m currently learning **Python**
   
   - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/nicat827?tab=repositories)
   
-  - 📫 How to reach me **nicatmajidov@gmail.com**
+  - 📫 How to reach me **mansur.sarxanov@gmail.com**
   
-  - 📄 My [CV](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html)
+  - 📄 My [CV](https://firebasestorage.googleapis.com/v0/b/mansur-sarkhanov-60fa0.appspot.com/o/Mansur%20Sarkhanov.pdf?alt=media&token=585976ba-e85c-4b65-bbe0-99ce03bc47ec)
 
   <br>
   <br>
