@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Nijat Majidov</h1>
+<h1 align="left">Hi 👋, I'm Mansur Sarkhanov</h1>
 
 <br>
 
-<h2 align="left"> C# and React developer from Azerbaijan</h2>
+<h2 align="left"> Flutter Middle Developer From Azerbaijan</h2>
 <br>
 <div>
 
