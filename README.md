@@ -42,46 +42,7 @@
 
 >  General
  
-<table width='100%'>
-  <tr>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="48" height="48" min-width="44"/> 
-        </a>
-       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1000px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="48" height="48" min-width="44"/> 
-        </a>
-       <a href="https://www.figma.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" min-width="44" />
-      </a>   
-      <a href="https://git-scm.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" min-width="44" alt="Git" />
-      </a>
-      <a href="https://www.npmjs.com/" >
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" width="48" height="48" alt="npm" min-width="44" />
-      </a>
-      <a href="https://yarnpkg.com/" >
-        <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="yarn" min-width="44" />
-      </a> 
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
-            <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="48" height="48" min-width="44" /> 
-        </a>
-         <a href="https://swagger.io">
-              <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="48" height="48" alt="Swagger" min-width="44" />
-        </a>
-        <a href="https://www.beekeeperstudio.io" target="_blank" rel="noreferrer"> 
-            <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png" alt="beekeeperstudio" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48" min-width="44" /> 
-        </a>
-  </tr> 
-</table>
+
 
 >  Frontend
  
